@@ -1,3 +1,4 @@
 <?php
-echo 'test';
+echo 'Finally Openshift work with php 7';
+phpinfo();
 ?>
